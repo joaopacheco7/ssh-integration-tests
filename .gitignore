@@ -1,0 +1,12 @@
+bin/
+/target/
+/.classpath
+/.project
+/.checkstyle
+/.settings/
+/crawlerinput/
+/crawling/
+/test-files/
+/files/
+/.idea/
+*iml
